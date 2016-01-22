@@ -1,0 +1,1 @@
+用reactjs写组件的时候，需要进行一些基础的搭建。reactjs-webpack-scaffold是基于reactjs和webpack的最基本的搭建。
